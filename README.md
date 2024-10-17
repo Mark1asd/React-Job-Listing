@@ -1,4 +1,8 @@
-# React-Job-Listing
-A job listings app built with React and Vite, styled with Tailwind CSS. It features adding, editing, deleting, and viewing jobs, using React Router for navigation and JSON Server for data. Includes useState and useEffect hooks, form handling, and Toast notifications for user feedback. Built for production with static asset optimization.
+# React + Vite
 
-![Home](https://github.com/user-attachments/assets/cea618e8-c54e-4858-911e-37421a09572c)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
